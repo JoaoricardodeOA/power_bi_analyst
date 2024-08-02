@@ -11,4 +11,7 @@ Foi utilizado desde tabelas condicionais, como agrupamentos e tabela DAX utiliza
 Layout criado baseado nos visuais solicitados e inserido um visual mapa de média de vendas por país.
 Feito botão home e de retornar
 ![image](https://github.com/user-attachments/assets/89524628-fe07-4dec-832e-470332e572c8)
+Criado tela de verificação minuciosa de produtos com parâmetros
+![image](https://github.com/user-attachments/assets/dd404668-d829-4df5-9a70-4b612585c415)
+
 
